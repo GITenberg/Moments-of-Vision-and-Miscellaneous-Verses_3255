@@ -1,5 +1,5 @@
 _repo: Moments-of-Vision-and-Miscellaneous-Verses_3255
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'World War, 1914-1918 -- Poetry'
 - !lcsh 'English poetry'
 - !lcc 'PR'
+- GITenberg
 title: Moments of Vision and Miscellaneous Verses
 url: http://www.gutenberg.org/ebooks/3255
